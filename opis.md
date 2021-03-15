@@ -44,8 +44,4 @@ and next yarn deploy and next add and commit and git push -u origin main
 skończyłem na 33 (reszta może później)   
 
 próba inna dla monsterRolodex
-"scripts": {
-      "predeploy": "npm run build",
-      "deploy": "gh-pages -d build",
-      …
-  }
+https://github.com/gitname/react-gh-pages - prawie działa
